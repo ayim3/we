@@ -1,3 +1,3 @@
 # love-count
 
-Contador de tempo a partir da data 06/09/2016
+Contador de tempo a partir da data 2023/03/05
